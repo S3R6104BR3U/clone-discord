@@ -14,10 +14,12 @@ Este projeto é uma reprodução da interface do Discord, focada principalmente 
 
 ## 📸 Screenshots
 
-Adicione aqui algumas capturas de tela do projeto em diferentes tamanhos de tela (mobile, tablet, desktop).
 ![Screenshot_20240913-163155-936](https://github.com/user-attachments/assets/363e94a5-bccc-4586-9538-0a96f4fc0899)
 ![Captura de tela 2024-09-13 163623](https://github.com/user-attachments/assets/d36bcf00-6a27-455b-83e2-713f89093c4c)
-https://github.com/user-attachments/assets/adbbad03-08e8-486b-b39c-ebdc09b4e307
+
+https://github.com/user-attachments/assets/78392e5f-9ed6-4bac-9aba-a41a6ff04a76
+
+
 
 ## 🎯 Objetivos
 
