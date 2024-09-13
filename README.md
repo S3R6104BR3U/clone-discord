@@ -11,6 +11,7 @@ Este projeto é uma reprodução da interface do Discord, focada principalmente 
 
 - `index.html`: Contém a estrutura HTML da página.
 - `styles.css`: Arquivo CSS com ênfase em media queries e layout flexível.
+- `img`: Contém as imagens utilizadas no projeto. 
 
 ## 📸 Screenshots
 
